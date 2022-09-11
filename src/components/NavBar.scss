@@ -86,7 +86,7 @@
         height: 20px;
         background: transparent;
         border-top-right-radius: 20px;
-        box-shadow: 0 -10px 0 0 white;
+        box-shadow: 0 -10px 0 0 #333;
       }
 
       &::after {
@@ -98,7 +98,7 @@
         height: 20px;
         background: transparent;
         border-top-left-radius: 20px;
-        box-shadow: 0 -10px 0 0 white;
+        box-shadow: 0 -10px 0 0 #333;
       }
     }
   }
