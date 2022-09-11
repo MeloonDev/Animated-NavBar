@@ -1,4 +1,4 @@
 const Projects = () => {
-  return <div>Projects</div>;
+  return <div className="comp">Projects</div>;
 };
 export default Projects;
